@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* #box{
+    background-color: rgb(206, 151, 68);
+    color: white;
+} */
+
+/* .heading{
+    color: red;
+} */
+
+/* #btn{
+    background-color: green;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin: 4px 10px;
+    cursor: pointer;
+} */
+
+/* .heading{
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+/* .outer{
+    font-size: 25px;
+}
+.inner{
+    font-size: 10px;
+} */
